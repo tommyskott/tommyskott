@@ -7,8 +7,7 @@ I'm doing freelance work at [Borgenfalk & Skott](https://github.com/Borgenfalk-S
 Feel free to reach out to me.
 
 
-Best,
-
+Best,  
 Tommy
 
 [https://borgenfalk.se](https://borgenfalk.se)
