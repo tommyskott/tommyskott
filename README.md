@@ -1,6 +1,6 @@
 # Hej, I'm Tommy! 👋
 
-I'm a Developer && UI/UX Designer from southern Sweden 🇸🇪 .  
+I'm a freelancing Developer && Ui/Ux Designer from Sweden 🇸🇪 .  
 I'm doing freelance work at [Borgenfalk & Skott](https://github.com/borgenfalkskott) during the weekdays.
 
 Feel free to reach out to me.
