@@ -1,14 +1,29 @@
 # Hej, I'm Tommy! 👋
 
-I'm a freelancing Developer && Ui/Ux Designer from Skåne, Sweden 🇸🇪 .  
-I'm doing freelance work at [Borgenfalk & Skott](https://github.com/borgenfalkskott) during the weekdays.
+## Freelance Developer and Ui / Ux Designer from Skåne, Sweden 🇸🇪 .  
 
 I'm always open for new co-labs and exciting opportunities.
 
 Best,  
 Tommy
 
-[https://borgenfalk.se](https://borgenfalk.se)
 
-[Dotfiles](https://github.com/tommyskott/dotfiles)
-[Tools](https://gist.github.com/tommyskott/674724e3869e73e4ae069008b589bc8b)
+### Links
+
+- [Blog](https://tommyskott.se/blog)
+- [Portfolio](https://tommyskott.se/portfolio)
+- [About me](https://tommyskott.se/about)
+- [Cv](https://tommyskott.se/cv)
+- [Contact](https://tommyskott.se/contact)
+
+### Social media
+- [Dribbble](https://dribbble.com/tommyskott/collections)
+- [Instagram](https://www.instagram.com/tommyskott/)
+- [LinkedIn](https://www.linkedin.com/in/tommy-borgenfalk-skott-84aab712/)
+- [Twitter](https://twitter.com/tommyskott)
+
+### Misc 
+
+- [B&S org](https://github.com/borgenfalkskott)
+- [Dot files](https://github.com/tommyskott/dotfiles)
+- [Tools](https://gist.github.com/tommyskott/674724e3869e73e4ae069008b589bc8b)
