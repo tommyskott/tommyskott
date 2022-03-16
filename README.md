@@ -2,7 +2,7 @@
 
 ## Freelance Developer and Ui / Ux Designer from Skåne, Sweden 🇸🇪 .  
 
-I'm always open for new co-labs and exciting opportunities.
+I'm always open to new co-labs and exciting opportunities.
 
 Best,  
 Tommy
@@ -25,5 +25,7 @@ Tommy
 ### Misc 
 
 - [B&S org](https://github.com/borgenfalkskott)
+- [Packagist](https://packagist.org/packages/borgenfalkskott/)
+- [Figma](https://www.figma.com/@borgenfalkskott)
 - [Dot files](https://github.com/tommyskott/dotfiles)
 - [Tools](https://gist.github.com/tommyskott/674724e3869e73e4ae069008b589bc8b)
